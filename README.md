@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-<p><a href="https://giphy.com/gifs/fuLKZUo0NeHd0GaQ1B">via GIPHY</a></p>
+<image src="https://giphy.com/gifs/fuLKZUo0NeHd0GaQ1B" title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 
 ## License
 
