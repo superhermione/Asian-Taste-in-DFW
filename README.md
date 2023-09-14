@@ -25,8 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-<iframe src="https://giphy.com/embed/fuLKZUo0NeHd0GaQ1B" width="480" height="249" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fuLKZUo0NeHd0GaQ1B">via GIPHY</a></p>
+<p><a href="https://giphy.com/gifs/fuLKZUo0NeHd0GaQ1B">via GIPHY</a></p>
 
 ## License
 
