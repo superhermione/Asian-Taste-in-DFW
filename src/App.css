@@ -1,0 +1,23 @@
+#root {
+  max-width: auto;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: sans-serif;
+  color: rgb(234, 220, 220);
+  background-color: rgb(199, 196, 249);
+  border: 5px solid rgb(235, 230, 230);
+  box-sizing: border-box;
+}
+
+ body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+img{
+  margin: 0 auto;
+}

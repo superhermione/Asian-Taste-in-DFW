@@ -1,0 +1,135 @@
+#root {
+  margin: 0;
+  text-align: center
+}
+
+.App {
+  margin-top: 0;
+  margin-left: 60px;
+  margin-right: 60px;
+  color: #000
+}
+
+h1 {
+  color: #fff;
+  font-size: 80px;
+  text-shadow: black 1px 0 10px;
+  padding-bottom: 18px;
+  margin-left:auto;
+}
+
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+:root {
+  font-family: Helvetica,sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  background-color: #a9e2e4;
+  color-scheme: light dark;
+  color: #fff;
+  background-size: cover auto;
+  background-blend-mode: multiply;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit
+}
+
+a:hover {
+  color: #535bf2
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 -15px;
+  margin-top: 40px;
+}
+
+.card {
+  flex: 0 0 calc(33.33% - 30px);
+  margin: 0 12px 25px;
+  border: 1px solid black;
+  border-radius: 64px;
+  overflow: hidden;
+  flex-direction: column;
+}
+
+.card-img {
+  width: 100%;
+  height: auto;
+}
+.card-img img{
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.card-content {
+  padding: 10px;
+}
+
+h1 {
+  font-size: 75px;
+}
+
+.menu-link {
+  margin-top: auto;
+  margin-bottom: 10px;
+  background-color: #5d5df3;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.menu-link:hover {
+  background-color: #e85461;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+      color:#213547;
+      background-color: #fff
+  }
+
+  a:hover {
+      color: #747bff
+  }
+
+  button {
+      background-color: #f9f9f9
+  }
+}
